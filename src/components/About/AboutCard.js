@@ -26,8 +26,6 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
           </ul>
-
-
         </blockquote>
       </Card.Body>
     </Card>
